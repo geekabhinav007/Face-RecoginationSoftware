@@ -24,4 +24,15 @@ Yes, Anyone can be confused. But don't worry I will explain it.
 
 ### What is Neural Network?
 
-### What is Convolutional Neural Network?
+### What is CV2?
+
+### What is Keras?
+
+### What is TensorFlow?
+
+### What is PyTorch?
+
+### What is Numpy?
+
+### What is Matplotlib?
+
