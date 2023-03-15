@@ -11,3 +11,17 @@ I am a student of ITB2 Information Technology Branch 3rd year.
 ## How it is working?
 
 ### What is Machine Learning?
+
+### Wow A new term AI?
+
+Anyone know what is AI?
+
+### What is Deep Learning?
+
+### Are we confused now?
+
+Yes, Anyone can be confused. But don't worry I will explain it.
+
+### What is Neural Network?
+
+### What is Convolutional Neural Network?
